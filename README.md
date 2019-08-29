@@ -1,20 +1,19 @@
+#Versions used:
+
+solidity ^0.4.25;
+Truffle v5.0.19 (core: 5.0.19)
+Solidity - ^0.4.24 (solc-js)
+Node v10.5.0
+Web3.js v1.0.0-beta.37
+
+#Note for examiner : 
+-The user interface is basic due to lack of time.  It only shows exactly what is required per rubrics (1) Passenger can purchcase insurance, 2) Trigger contract to request flight status update.  Everything else is displayed within unit tests (including unit tests for 1 and 2 mentioned above).
+
+-The results of passenger purchasing insurance are shown on thet top of the screen, so scroll to the top to see purchase confirmation from a callback.
+
 # FlightSurety
 
 FlightSurety is a sample application project for Udacity's Blockchain course.
-
-## Versions used:
-
-'solidity ^0.4.25'
-'Truffle v5.0.19 (core: 5.0.19)'
-'Solidity - ^0.4.24 (solc-js)'
-'Node v10.5.0'
-'Web3.js v1.0.0-beta.37'
-'Ganche 1.3.0'
-
-## Note for examiner : 
--The user interface only shows exactly what is required per rubrics (1) Passenger can purchcase insurance, 2) Trigger contract to request flight status update.  Everything else is displayed within unit tests (including unit tests for 1 and 2 mentioned above).
-
--The results of passenger purchasing insurance are shown on thet top of the screen, so scroll to the top to see purchase confirmation from a callback.
 
 ## Install
 
